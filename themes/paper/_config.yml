@@ -1,4 +1,3 @@
-
 # html lang
 language: zh
 
@@ -11,23 +10,17 @@ menu:
 stylesheets:
 
 stylesheets_preload:
-- https://cdn.bootcss.com/highlight.js/9.6.0/styles/github.min.css # for highlight
-- https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap # for font
+  - https://cdn.bootcss.com/highlight.js/9.6.0/styles/github.min.css # for highlight
+  - https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap # for font
 
 # scripts loaded in the end of the body
 scripts_defer:
-- https://cdn.bootcss.com/highlight.js/9.6.0/highlight.min.js # for highlight
-- /js/paper.js # for basic script
-
+  - https://cdn.bootcss.com/highlight.js/9.6.0/highlight.min.js # for highlight
+  - /js/paper.js # for basic script
 
 social:
-  Github: https://github.com/yours
-  Codepen: https://codepen.io/yours
-  Dribbble: https://dribbble.com/yours
-  Twitter: https://twitter.com/yours
-  知乎: https://www.zhihu.com/people/yours
-  掘金: https://juejin.im/user/yours
-  Mail: mailto:xxx@yourmail.xxxx
+  Github: https://github.com/tingyuliu0920
+  Mail: mailto:tingyuliu.dev@gmail.xxxx
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar
