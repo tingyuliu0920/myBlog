@@ -1,11 +1,10 @@
 ---
 layout: drafts
-title: Common Hexo commands
+title: Common Hexo Commands
 tags:
   - Hexo
 date: 2024-07-30 20:30:50
 ---
-
 
 #### Create a Hexo site
 
