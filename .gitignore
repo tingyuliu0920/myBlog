@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Hexo generated files
+public/
+db.json
+
+# Hexo configuration files
+_config.yml
+_config.*.yml
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+.sass-cache/
