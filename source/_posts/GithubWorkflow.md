@@ -1,10 +1,8 @@
 ---
-layout: posts
 title: Github Workflow
 tags:
   - github
   - git
-date: 2024-07-31 22:14:52
 ---
 
 ##### Manage code between `main` branch and a feature branch like `my-feature`.
