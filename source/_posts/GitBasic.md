@@ -2,7 +2,7 @@
 layout: posts
 title: Git--Basic
 tags:
-  - Git
+  - git
   - commands
 date: 2024-07-30 19:49:27
 ---
