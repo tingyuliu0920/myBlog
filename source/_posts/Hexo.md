@@ -1,8 +1,9 @@
 ---
-layout: drafts
-title: Common Hexo Commands
+layout: posts
+title: Hexo
 tags:
   - Hexo
+  - commands
 date: 2024-07-30 20:30:50
 ---
 
