@@ -7,7 +7,6 @@ tags:
 date: 2024-07-31 22:14:52
 ---
 
-
 ##### Manage code between `main` branch and a feature branch like `my-feature`.
 
 #### 1.Create a New Branch
